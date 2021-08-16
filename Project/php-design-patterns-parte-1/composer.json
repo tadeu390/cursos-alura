@@ -1,0 +1,9 @@
+{
+    "name": "cursos/design-patterns",
+    "description": "curso da formacao php na alura",
+    "autoload": {
+        "psr-4": {
+            "Alura\\DesignPattern\\" : "src/"
+        }
+    }
+}
