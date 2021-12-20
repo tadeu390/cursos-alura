@@ -1,0 +1,25 @@
+Adicionar Telefone (Alura\Arquitetura\Testes\Integracao\Aplicacao\Aluno\AdicionarTelefone)
+ [ ] Aluno deve ser adicionado ao repositorio
+
+Matricular Aluno (Alura\Arquitetura\Testes\Integracao\Aplicacao\Aluno\MatricularAluno)
+ [ ] Aluno deve ser adicionado ao repositorio
+
+Adicionar Telefone (Alura\Arquitetura\Testes\Unidade\Aplicacao\Aluno\AdicionarTelefone)
+ [x] Aluno deve ser adicionado ao repositorio
+
+Matricular Aluno (Alura\Arquitetura\Testes\Unidade\Aplicacao\Aluno\MatricularAluno)
+ [x] Aluno deve ser adicionado ao repositorio
+
+Cpf (Alura\Arquitetura\Testes\Unidade\Dominio\Aluno\Cpf)
+ [x] Cpf numero no formato invalido nao deve poder existir
+ [x] Cpf deve poder ser representado como string
+
+Email (Alura\Arquitetura\Testes\Unidade\Dominio\Aluno\Email)
+ [x] Email no formato invalido nao deve poder existir
+ [x] Email deve poder ser representado como string
+
+Telefone (Alura\Arquitetura\Testes\Unidade\Dominio\Aluno\Telefone)
+ [x] Telefone deve poder ser representado como string
+ [x] Telefone com ddd invalido nao deve existir
+ [x] Telefone com numero invalido nao deve existir
+

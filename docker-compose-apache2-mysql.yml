@@ -6,6 +6,8 @@ services:
     build: infra/web-server/apache
     ports:
       - "8080:80"
+    env_file:
+      - infra/web-server/apache/.env
     volumes:
       - ./Project:/var/www/html
     tty: true
